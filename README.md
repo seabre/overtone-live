@@ -4,7 +4,7 @@ Livecoding as a musical and visual artform has been slowly progressing into the 
 
 You can review my slides [here](https://docs.google.com/presentation/d/1RMrTVWU-nZlppTXzzBsbfyBKNjUNOSok3APsMgvSXz8/edit?usp=sharing)
 
-# Installation
+## Installation
 
 This project serves as a basis for a project you might use to start your livecoding session with Overtone.
 
@@ -14,7 +14,7 @@ I used Emacs 24 paired with [Emacs Live](https://github.com/overtone/emacs-live)
 
 After installing leiningen, you can get started by running `lein repl` from the root of this repository and use `(use 'overtone.live)` in the REPL to load Overtone and get started with hacking.
 
-# References
+## References
 
 Some of the theory/ideas/techniques behind algorithmic composition that have been influential to me are the following sources:
 
@@ -22,7 +22,7 @@ Some of the theory/ideas/techniques behind algorithmic composition that have bee
 * [Notes from the Metalevel: An Introduction to Computer Composition](http://www.moz.ac.at/sem/lehre/lib/bib/software/cm/Notes_from_the_Metalevel/)
 * [Computer Music: Synthesis, Composition, and Performance](http://dl.acm.org/citation.cfm?id=549805)
 
-# Some Influential Pieces, To Me Anyway, In Algorithmic Composition
+## Some Influential Pieces, To Me Anyway, In Algorithmic Composition
 
 * [A Study In Keith - Andrew Sorensen](https://www.youtube.com/watch?v=b-8Cmd6k4_M)
 * [Piano Phase - Steve Reich](http://en.wikipedia.org/wiki/Piano_Phase)

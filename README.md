@@ -12,6 +12,8 @@ To get started, install [leiningen](http://leiningen.org/) and run `lein deps` i
 
 I used Emacs 24 paired with [Emacs Live](https://github.com/overtone/emacs-live) for editing.
 
+You will need SuperCollider installed on your machine. For Ubuntu, you can use [this PPA](https://launchpad.net/~supercollider/+archive/ubuntu/ppa).
+
 After installing leiningen, you can get started by running `lein repl` from the root of this repository and use `(use 'overtone.live)` in the REPL to load Overtone and get started with hacking.
 
 ## References
